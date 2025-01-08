@@ -15,11 +15,6 @@
   "dependencies": {
     "@formkit/auto-animate": "^0.8.2",
     "@formkit/vue": "^1.6.5",
-    "@fortawesome/fontawesome-svg-core": "^6.5.2",
-    "@fortawesome/free-brands-svg-icons": "^6.5.2",
-    "@fortawesome/free-regular-svg-icons": "^6.5.2",
-    "@fortawesome/free-solid-svg-icons": "^6.5.2",
-    "@fortawesome/vue-fontawesome": "^3.0.8",
     "axios": "^1.6.7",
     "gsap": "^3.12.5",
     "lucide-vue-next": "^0.400.0",
